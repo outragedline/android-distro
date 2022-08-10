@@ -11,6 +11,31 @@ Neste tutorial você vai aprender a baixar uma distro linux no seu celular, no c
 Você vai poder usar seu celular basucamente como um computador, porém se ele for muito fraco, recomendo não tentar usar uma interface grafica
 
 
+# Possibilidades
+
+## IDES e aplicativos
+Seu archlinux será capaz de rodar quase qualquer aplicativo que tenha suporte para a arquitetura do seu celular
+
+A maioria dos celulares possuem uma arquitetura AARCH64
+
+Você poderá rodar programas como
+
+1. GIMP
+1. Firefox
+1. Eclipse IDE
+
+E muitos outros
+
+Uma das poucas exceções que achei foi o vscode, que possui suporte para AARCH64 mas ainda assim não  roda, porém você pode substituir ele por outros editores de código como sublime text ou **neovim**
+
+## Periféricos
+A fim de melhorar a experiência você pode querer conectar periféricos e um monitor, e sim, você pode fazer isso
+
+Teclado e mouse fucionam perfeitamente via bluetooth ou conectados com um  adaptador OTG
+
+Você pode conectar um monitor usando um adaptador especial usb > hdmi
+
+A melhor opcão é usar um hub usb que tenha entradas pro teclado e mouse, e uma entrada hdmi pro monitor
 
 # Instalando o termux
 
