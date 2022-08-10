@@ -108,7 +108,7 @@ Caso não vá usar o pulseaudio, apague a ultima linha
 
 Altere o alias de acordo com a distro que você escolheu, ou não mexa em nada pra deixar como arch 
 
-salve o arquivo com __CTRL s__ e saia do nano com __CTRL x__
+salve o arquivo com `CTRL s` e saia do nano com `CTRL x`
 
 Carregue as configurações do _.bashrc_ na sessão atual
 
