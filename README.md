@@ -1,6 +1,7 @@
-# Instalando uma distro linuz no android
+# Instalando uma distro linux no android
 
 
+![IMG_20220809_012527](https://user-images.githubusercontent.com/81770118/183819951-15025d0e-e4f3-411a-b03e-0641c75f7783.jpg)
 
 
 
