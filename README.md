@@ -258,7 +258,7 @@ Recomendo que veja algum tutorial sobre I3WM, para entender como fuciona
 
 # Conteudos recomendados
 
-1- BASH
+## Bash
 Para programar no celular, é interessante saber utilizar o bash, pois é o terminal que o termux utiliza
 
 Como bom conteúdo gratuito sobre bash, recomendo o canal debxp no youtube e o livro Pequeno Manual do Programador GNU Bash
@@ -266,7 +266,7 @@ Como bom conteúdo gratuito sobre bash, recomendo o canal debxp no youtube e o l
 [PMPGB](https://blauaraujo.com/baixar/)
 
 
-2- NEOVIM
+## Neovim
 Você certamente precisará de um editor de código, e para o celular, o neovim com certeza é o melhor
 
 O neovim é um ediror poderoso, e eu criei um manual completo sobre ele
